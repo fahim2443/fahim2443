@@ -1,6 +1,6 @@
 <!-- Futuristic Banner -->
 <h1 align="center">🚀 Md Shoriful Islam Fahim</h1>
-<h3 align="center">Student | Innovator | AI & IoT Explorer | Future Mars Builder</h3>
+<h3 align="center">Student | Innovator | AI & IoT Explorer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fahim2443&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
@@ -14,7 +14,6 @@
 - 🚇 **MetroX** – Smart Metro App for Bangladesh  
 - 🔒 **Smart Cycle Lock System** – IoT security innovation  
 - 🏛️ **AI Museum Guide** – Newland Cup 2025 project  
-- ⌚ **Smart Ring/Band IoT System** – STITP 2025  
 
 ---
 
@@ -32,10 +31,10 @@ Building AI assistants that integrate with IoT systems, revolutionize mobility (
 ---
 
 ## 🏆 Competitions & Achievements
-- 🎖️ Jiangsu Government Scholarship recipient  
+- 🎖️ Jiangsu Government Scholarship recipient 2024
 - 🥈 C3 Club Project (Task Manager) – 2nd Place  
 - 🌍 Newland Cup – AI Museum Guide (2025)  
-- 💻 Junior Officer – ITA Wing, BCSC  
+- 💻 Assistant Senior Officer – ITA Wing, BCSC  
 
 ---
 
@@ -88,6 +87,7 @@ Building AI assistants that integrate with IoT systems, revolutionize mobility (
 ---
 
 ## 📫 Contact
-- 📧 Email: your-email-here  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
-- 🛰️ Portfolio: [your-portfolio-link](#)  
+- 📧 Email: fahim2443@gmail.com
+- 📞 Phone: +86 19551993351 (English only)
+- 💼 LinkedIn: https://www.linkedin.com/in/fahim2443/  
+- 🛰️ Portfolio: Coming soon  
