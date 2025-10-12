@@ -32,6 +32,7 @@ Building AI assistants that integrate with IoT systems, revolutionize mobility (
 
 ## 🏆 Competitions & Achievements
 - 🎖️ Jiangsu Government Scholarship recipient 2024
+- 🏅 Nanjing Government Scholarship recipient 2025
 - 🥈 C3 Club Project (Task Manager) – 2nd Place  
 - 🌍 Newland Cup – AI Museum Guide (2025)  
 - 💻 Assistant Senior Officer – ITA Wing, BCSC  
