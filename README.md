@@ -11,6 +11,7 @@
 ---
 
 ## 🔥 Current Projects
+- 📖 **Semestra** - Academic Material Sharing Platfrom
 - 🚇 **MetroX** – Smart Metro App for Bangladesh  
 - 🔒 **Smart Cycle Lock System** – IoT security innovation  
 - 🏛️ **AI Museum Guide** – Newland Cup 2025 project  
@@ -35,7 +36,8 @@ Building AI assistants that integrate with IoT systems, revolutionize mobility (
 - 🏅 Nanjing Government Scholarship recipient 2025
 - 🥈 C3 Club Project (Task Manager) – 2nd Place  
 - 🌍 Newland Cup – AI Museum Guide (2025)  
-- 💻 Assistant Senior Officer – ITA Wing, BCSC  
+- 💻 Assistant Senior Officer – ITA Wing, BCSC
+- 💻 Head of Developer - Velox Studio
 
 ---
 
