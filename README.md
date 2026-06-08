@@ -37,7 +37,6 @@ Building AI assistants that integrate with IoT systems, revolutionize mobility (
 - 🥈 C3 Club Project (Task Manager) – 2nd Place  
 - 🌍 Newland Cup – AI Museum Guide (2025)  
 - 💻 Assistant Senior Officer – ITA Wing, BCSC
-- 💻 Head of Developer - Velox Studio
 
 ---
 
